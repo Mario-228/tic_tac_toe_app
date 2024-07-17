@@ -1,4 +1,4 @@
-# tic_tac
+# tic_tac_toe Game
 
 A new Flutter project.
 
